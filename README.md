@@ -1,7 +1,7 @@
 # Lets-Code
 
 Hi Guys,
-James here, You can call me sid.
+Siddharth here, You can call me James.
 I like Java, Web Development, Some of SQL, and Most importantly Football.
 Coding is Passion, and Football is love.
 
